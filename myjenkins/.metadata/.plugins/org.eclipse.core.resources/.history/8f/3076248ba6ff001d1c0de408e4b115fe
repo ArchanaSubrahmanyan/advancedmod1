@@ -1,0 +1,4 @@
+server.port=8091
+server.application.name=general
+app.server.detail=general profile
+spring.profiles.active=test

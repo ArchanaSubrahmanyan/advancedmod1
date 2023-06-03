@@ -1,0 +1,8 @@
+package awslambda.ust.model;
+
+public class Lambda {
+
+	public String helloLambda() {
+		return "Hello Lambda";
+	}
+}
